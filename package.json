@@ -1,0 +1,11 @@
+{
+  "name": "safetynet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:LukasBombach/safetynet.git",
+  "author": "Lukas Bombach <lukas.bombach@googlemail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "immer": "5.0.0"
+  }
+}
